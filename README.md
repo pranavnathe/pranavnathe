@@ -6,7 +6,7 @@
 
 -   👨‍💻 All of my projects are available at [HERE](https://github.com/pranavnathe/)
 
--   📄 Know about my experiences [HERE](https://drive.google.com/drive/folders/1YXbe2VLdptlnMTEff4Xd7XMwqPb1ogiG?usp=drive_link)
+-   📄 Know about my experiences [HERE](www.pranavnathe.com)
 
 <h3 align="left">Connect with me:</h3>
 
